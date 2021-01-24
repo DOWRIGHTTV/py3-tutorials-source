@@ -1,6 +1,4 @@
-# py3-packet-sniff
-Basic python network/packet sniffer. (no scapy!)
+# py3-tutorials
+This repo contains the source code of my youtube video instructionals.
 
-This file goes hand in hand with a youtube instructional video for scapyless python3 packet sniffing/parsing. See the video here: https://www.youtube.com/watch?v=mDiVn0hsMYs
-
-Must be ran as root. This can be easily modified to be imported by another script or app to return the parsed packet data.
+see: https://www.youtube.com/dowrighttv
